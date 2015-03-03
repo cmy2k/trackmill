@@ -1,0 +1,12 @@
+{
+  "name": "trackmill",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+    "socket.io": "^1.3.4"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
